@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuScripts\MenuManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\StageScripts\GameManager.cs" Line="50" Column="47" />
+      <File FileName="Assets\Scripts\StageScripts\Tutorial.cs" Line="102" Column="57" />
+      <File FileName="Assets\Scripts\StageScripts\PauseMenu.cs" Line="38" Column="40" />
+      <File FileName="Assets\Scripts\BaseScripts\UIObject.cs" Line="186" Column="12" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="116" Column="3" />
+      <File FileName="Assets\Scripts\MenuScripts\MenuManager.cs" Line="152" Column="119" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
