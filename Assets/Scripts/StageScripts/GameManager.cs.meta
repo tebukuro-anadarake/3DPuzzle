@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae1fa122e00df3d4bae64dee8f0585f2
+timeCreated: 1505426391
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - stage_button: {fileID: 2800000, guid: 479c31b4f15ca3a499774bf563d95d7e, type: 3}
+  - back_button: {fileID: 2800000, guid: 2052f12396d93ee4790dc154351ff9fe, type: 3}
+  - screen_black: {fileID: 2800000, guid: 5546342310006794da96a1feec1488ac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
